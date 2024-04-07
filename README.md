@@ -16,8 +16,8 @@
     For each of the features, there are three folders of different resolutions (480p, 720p, 1080p) containing 1440 frames totaling 1 minute of video (24 fps).
     The folders are named in the format FEATURE - RESOLUTION - PNG.
 - File "trick_answers.xlsx" contains the excel sheet with answers of all interviewees for the questions asked during the research.
-    Contains the answers for:
-        - Age, gender, mood level, attention, and vision of the interviewees
-        - MOS values from 1 to 5 answered by the interviewees
-        - If it was identified any changes in video resolution during viewing (Yes or No)
+	Contains the answers for:
+		- Age, gender, mood level, attention, and vision of the interviewee
+  		- MOS values from 1 to 5 answered by the interviewees
+		- If it was identified any changes in video resolution during viewing (Yes or No)
         - Satisfaction with the viewing experience (Yes or No)
